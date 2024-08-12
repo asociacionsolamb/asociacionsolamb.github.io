@@ -328,8 +328,7 @@
     textarea {
         @include vendor('appearance', 'none');
         @include vendor('transition', 'border-color 0.2s ease-in-out');
-        // background: #fff;
-	background: #0000;
+        background: #fff;
         border: solid 1px _palette(border);
         border-radius: _size(radius);
         color: _palette(fg-bold);
