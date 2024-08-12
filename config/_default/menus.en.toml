@@ -1,0 +1,66 @@
+[[main]]
+    name = "Services"
+    weight = 20
+
+
+
+[[main]]
+    parent = "Services"
+    name = "Remote Sensing & GIS"
+    weight = 21
+
+[[main]]
+    parent = "Remote Sensing & GIS"
+    name = "Environmental Cartography"
+    weight = 22
+[[main]]
+    parent = "Remote Sensing & GIS"
+    name = "Land-Use"
+    weight = 22
+[[main]]
+    parent = "Remote Sensing & GIS"
+    name = "Crops"
+    weight = 22
+[[main]]
+    parent = "Remote Sensing & GIS"
+    name = "Urban Cartography"
+    weight = 32
+
+
+
+[[main]]
+    parent = "Services"
+    name = "Ecosystem Services"
+    weight = 23
+    
+[[main]]
+    parent = "Ecosystem Services"
+    name = "Biodiversity"
+    weight = 24
+[[main]]
+    parent = "Ecosystem Services"
+    name = "Carbon cycle"
+    weight = 24
+[[main]]
+    parent = "Ecosystem Services"
+    name = "Water cycle"
+    weight = 24
+[[main]]
+    parent = "Ecosystem Services"
+    name = "Cultural services"
+    weight = 24
+
+
+[[main]]
+    parent = "Services"
+    name = "Environmental Consultancy"
+    weight = 25
+[[main]]
+    parent = "Environmental Consultancy"
+    name = "EIA"
+    weight = 26
+[[main]]
+    parent = "Environmental Consultancy"
+    name = "Environmental Informs"
+    weight = 26
+    

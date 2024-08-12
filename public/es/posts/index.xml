@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bitácora on Asociación SolAmb</title>
+    <link>http://localhost:1313/es/posts/</link>
+    <description>Recent content in Bitácora on Asociación SolAmb</description>
+    <generator>Hugo</generator>
+    <language>es-us</language>
+    <lastBuildDate>Thu, 01 Aug 2024 19:23:24 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/es/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/es/posts/my-first-post/</link>
+      <pubDate>Thu, 01 Aug 2024 19:23:24 +0200</pubDate>
+      <guid>http://localhost:1313/es/posts/my-first-post/</guid>
+      <description>Introduction What da fuck maderfucker</description>
+    </item>
+  </channel>
+</rss>

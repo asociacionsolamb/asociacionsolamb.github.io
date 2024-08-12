@@ -1,0 +1,46 @@
+banner:
+  enable: true
+  image: "images/cabo_mountains.jpg"
+  contents: "**Soluciones Ambientales:** desde el cielo a la tierra y vuelta"
+  # button:
+  #   contents: "Aprenda Más"
+  #   url: "#"
+items:
+  - type: highlights
+    items_per_row: 4
+    items:
+    - title: Medio natural
+      icon: fa-solid fa-leaf
+      content: >
+        Entendemos profundamente nuestro medio natural, lo que nos habilita para
+        gestionarlo, conservarlo y estudiarlo.
+    - title: Teledetección & SIG
+      icon: fa-solid fa-satellite
+      content: >
+        Equipo experto en el análisis de la superficie terrestre mediante
+        sensores remótos (imágenes satelitales, aéreas, UAV, sensores en tierra).
+    - title: Investigación & Gestión
+      icon: fa-solid fa-book-open
+      content: >
+        Buscamos aportar en el avance del conocimiento en temas ambientales y su
+        gestión, apoyándonos en jornadas de campo, modelización y análisis estadísticos.
+    - title: Enfoque internacional
+      icon: fa-solid fa-globe
+      content: >
+        Nuestras acciones están localizadas local, regionalmente,
+        además de internacionalmente a través de suvbenciones.
+  - type: heading
+    heading: Nuestros principales ámbitos
+    contents: >
+      **Servicios Ecosistémicos**. Contenido en Carbono, Captura de Carbono, Biodiversidad, etc.
+      **Investigación**. Análisis de datos, modelización, teledetección, SIG, etc.
+      **Consultoría ambiental**. Estudios de Impacto Ambiental, Informes Ambientales, etc.
+  - type: posts
+    #heading: Recent Posts
+    content_type: posts
+    max: 4
+  # - type: cta
+  #   contents: ¿Estás preparado para continuar tu búsqueda?
+  #   button:
+  #     contents: Inserta Moneda
+  #     url: "#"

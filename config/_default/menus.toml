@@ -1,0 +1,74 @@
+[[main]]
+    name = "Servicios"
+    weight = 20
+
+[[main]]
+    parent = "Servicios"
+    name = "Teledetección & SIG"
+    url = "/teledeteccionysig/teledeteccionysig"
+    weight = 21
+    
+[[main]]
+    parent = "Teledetección & SIG"
+    name = "Cartografía ambiental"
+    weight = 22
+    url = "/teledeteccionysig/cartoambiental"
+[[main]]
+    parent = "Teledetección & SIG"
+    name = "Usos del Suelo"
+    url = "/teledeteccionysig/usosdelsuelo"
+    weight = 22
+[[main]]
+    parent = "Teledetección & SIG"
+    name = "Cultivos"
+    url = "/teledeteccionysig/cultivos"
+    weight = 22
+[[main]]
+    parent = "Teledetección & SIG"
+    name = "Catastro"
+    url = "/teledeteccionysig/catastro"
+    weight = 22
+
+
+[[main]]
+    parent = "Servicios"
+    name = "Servicios ecosistémicos"
+    weight = 23
+    
+[[main]]
+    parent = "Servicios ecosistémicos"
+    name = "Biodiversidad"
+    url = "/serviciosecosistemicos/biodiversidad"
+    weight = 24
+[[main]]
+    parent = "Servicios ecosistémicos"
+    name = "Ciclo del Carbono"
+    url = "/serviciosecosistemicos/ciclocarbono"
+    weight = 24
+[[main]]
+    parent = "Servicios ecosistémicos"
+    name = "Ciclo del agua"
+    url = "/serviciosecosistemicos/cicloagua"
+    weight = 24
+[[main]]
+    parent = "Servicios ecosistémicos"
+    name = "Servicios culturales"
+    url = "/serviciosecosistemicos/serviciosculturales"
+    weight = 24
+
+
+[[main]]
+    parent = "Servicios"
+    name = "Consultoría Ambiental"
+    weight = 25
+[[main]]
+    parent = "Consultoría Ambiental"
+    name = "EIA"
+    url = "/consultoriaambiental/eia"
+    weight = 25
+[[main]]
+    parent = "Consultoría Ambiental"
+    name = "Informes Ambientales"
+    url = "/consultoriaambiental/informeambiental"
+    weight = 25
+

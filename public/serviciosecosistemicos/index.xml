@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Serviciosecosistemicos on Asociación SolAmb</title>
+    <link>http://localhost:1313/serviciosecosistemicos/</link>
+    <description>Recent content in Serviciosecosistemicos on Asociación SolAmb</description>
+    <generator>Hugo</generator>
+    <language>es</language>
+    <copyright>© Untitled. All rights reserved</copyright>
+    <atom:link href="http://localhost:1313/serviciosecosistemicos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Biodiversidad</title>
+      <link>http://localhost:1313/serviciosecosistemicos/biodiversidad/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/serviciosecosistemicos/biodiversidad/</guid>
+      <description>prueba prueba probación</description>
+    </item>
+    <item>
+      <title>Ciclo del agua</title>
+      <link>http://localhost:1313/serviciosecosistemicos/cicloagua/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/serviciosecosistemicos/cicloagua/</guid>
+      <description>prueba prueba probación</description>
+    </item>
+    <item>
+      <title>Ciclo del carbono</title>
+      <link>http://localhost:1313/serviciosecosistemicos/ciclocarbono/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/serviciosecosistemicos/ciclocarbono/</guid>
+      <description>prueba prueba probación</description>
+    </item>
+    <item>
+      <title>Servicios Culturales</title>
+      <link>http://localhost:1313/serviciosecosistemicos/serviciosculturales/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/serviciosecosistemicos/serviciosculturales/</guid>
+      <description>prueba prueba probación</description>
+    </item>
+  </channel>
+</rss>

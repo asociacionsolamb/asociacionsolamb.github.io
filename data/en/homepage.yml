@@ -1,0 +1,47 @@
+banner:
+  enable: true
+  image: "images/cabo_mountains.jpg"
+  contents: "_**Environmental Solutions**_: from the sky to the earth and back"
+  # button:
+  #   contents: "Learn More"
+  #   url: "#"
+items:
+  - type: highlights
+    items_per_row: 4
+    items:
+    - title: Environment
+      icon: fa-solid fa-leaf
+      content: >
+        We have a deep understanding about our surrounding environment,
+        empowering us into its stewardship, conservation and study
+    - title: Remote Sensing & GIS
+      icon: fa-solid fa-satellite
+      content: >
+        A team with expertise in land surface analysis through remote sensors
+        (satellites, aerial, UAV, ground-truth sensors)
+    - title: Research & Management
+      icon: fa-solid fa-book-open
+      content: >
+        We look for pushing forward the knowledge about the environment and
+        its management, leveraging in field surveys, modelling and statistical
+        analysis.
+    - title: International scope
+      icon: fa-solid fa-globe
+      content: >
+        Our actions' extent from local and regional scales,
+        to international scale through European projects.
+  - type: heading
+    heading: Our main areas of expertise
+    contents: >
+      **Environmental services**. Carbon storage and uptake, biodiversity assessments, etc.
+      **Research**. Data analysis, modelling, remote sensing, GIS, etc.
+      **Environmental consultancy**. Environmental Impact Assessments, Evironment Informs, etc.
+  - type: posts
+    #heading: Recent Posts
+    content_type: posts
+    max: 4
+  # - type: cta
+  #   contents: Are you ready to continue your quest?
+  #   button:
+  #     contents: Insert Coin
+  #     url: "#"
